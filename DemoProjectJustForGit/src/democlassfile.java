@@ -5,6 +5,7 @@ public class democlassfile {
 		// TODO Auto-generated method stub
 System.out.println("masteffdddfr wrdsaderbranch");
 System.out.println("Enter the data");
+System.out.println("After merging with master");
 	}
 
 }
