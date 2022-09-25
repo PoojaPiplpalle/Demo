@@ -59,7 +59,7 @@ public class DifferncebetExplicitAndImplicit {
 		//creating WebDriverWait and passing driver and timeout as a ref  and  until ExpectedConditions(class in selenium) that element should be visible and which element to clickable we will pass as a ref in elementToBeClickable(locator) 
 		element.sendKeys(value);//Aftr above condition(Element is visible)satisfied then Pass value on above locator.
 //driver wait for sometime until the expected conddition for element to visible and if condition is satisfied then use sendkeys method and pass the value.
-	System.out.println("Test12'");
+	System.out.println("Test1");
 	
 	}
 	public static void clickOn(WebDriver driver,WebElement element,int timeout) {
